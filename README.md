@@ -10,11 +10,10 @@ brands.
 ### Instalattion
 Requires [Node.js](https://nodejs.org/) to run.
 
-Install the dependencies and start the application.
+The application does not have any dev dependencies so just start the application.
 
 ```sh
 $ cd statement_generator
-$ npm install
 $ node .
 ```
 
