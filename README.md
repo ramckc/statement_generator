@@ -7,7 +7,7 @@ document. For example, a content creator on the AspireIQ platform can be
 responsible for producing social posts as part of their relationship with the
 brands.
 
-### Instalattion
+### Installation
 Requires [Node.js](https://nodejs.org/) to run.
 
 The application does not have any dev dependencies so just start the application.
